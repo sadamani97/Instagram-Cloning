@@ -1,0 +1,2 @@
+backend server: json-server --watch db/db.json --port 3000 --static ./src/assets
+frontend:npm run dev  

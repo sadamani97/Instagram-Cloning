@@ -1,0 +1,195 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "/assets/img4.jpg"
+      },
+      "image": "/assets/green.jpg",
+      "caption": "Beautiful sunset 🌇 #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Wow! Amazing shot! 📸"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "emma_white",
+        "profile_pic": "/assets/story2.jpg"
+      },
+      "image": "/assets/nature.jpg",
+      "caption": "Fresh air and mountain vibes ⛰️✨",
+      "likes": 98,
+      "comments": [
+        {
+          "user": "travel_guy",
+          "comment": "This view is insane!!"
+        },
+        {
+          "user": "john_doe",
+          "comment": "Love this place!"
+        }
+      ],
+      "timestamp": "2025-02-10T10:12:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "mark_92",
+        "profile_pic": "/assets/img7.jpg"
+      },
+      "image": "/assets/sunset.jpg",
+      "caption": "Coffee + coding ☕💻 #developerlife",
+      "likes": 210,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "Perfect combo 🔥"
+        },
+        {
+          "user": "emma_white",
+          "comment": "Love the aesthetic!"
+        }
+      ],
+      "timestamp": "2025-02-12T09:45:00Z"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "alice_wonder",
+        "profile_pic": "/assets/img8.jpg"
+      },
+      "image": "/assets/waterfall.jpg",
+      "caption": "Beach day 🌊☀️ #vacationmode",
+      "likes": 303,
+      "comments": [
+        {
+          "user": "emma_white",
+          "comment": "This looks relaxing 🏖️"
+        },
+        {
+          "user": "travel_guy",
+          "comment": "Wish I was there!"
+        }
+      ],
+      "timestamp": "2025-02-09T16:20:00Z"
+    }
+  ],
+  "profile": {
+    "id": 101,
+    "username": "mani_sm",
+    "profile_pic": "/assets/story3.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "101",
+      "username": "john_doe",
+      "profile_pic": "/assets/img4.jpg"
+    },
+    {
+      "id": "102",
+      "username": "emma_white",
+      "profile_pic": "/assets/story2.jpg"
+    },
+    {
+      "id": "103",
+      "username": "mark_92",
+      "profile_pic": "/assets/img7.jpg"
+    },
+    {
+      "id": "104",
+      "username": "alice_wonder",
+      "profile_pic": "/assets/img8.jpg"
+    },
+    {
+      "id": "105",
+      "username": "alice_in_wonder",
+      "profile_pic": "/assets/img8.jpg"
+    },
+    {
+      "id": "106",
+      "username": "mark_95",
+      "profile_pic": "/assets/img8.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "/assets/story1.jpg"
+      },
+      "image": "/assets/story1.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "emma_white",
+        "profile_pic": "/assets/story2.jpg"
+      },
+      "image": "/assets/story2.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "mark_92",
+        "profile_pic": "/assets/story3.jpg"
+      },
+      "image": "/assets/story3.jpg"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "alice_wonder",
+        "profile_pic": "/assets/story4.jpg"
+      },
+      "image": "/assets/story4.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "103",
+      "username": "mark_92",
+      "profile_pic": "/assets/story3.jpg"
+    },
+    {
+      "id": "104",
+      "username": "alice_wonder",
+      "profile_pic": "/assets/story4.jpg"
+    },
+    {
+      "id": "105",
+      "username": "alice_in_wonder"
+    },
+    {
+      "id": "102",
+      "username": "emma_white"
+    },
+    {
+      "id": "101",
+      "username": "john_doe"
+    },
+    {
+      "id": "104",
+      "username": "alice_wonder"
+    }
+  ]
+}
